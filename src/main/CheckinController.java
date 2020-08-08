@@ -40,8 +40,8 @@ public class CheckinController implements Observer{
 		gui = new SimulationGUI();
 		
 		// File locations.
-		bookingPath = "/BookingFile.txt";
-		flightPath = "/FlightFile.txt";
+		bookingPath = "/BookingFile.csv";
+		flightPath = "/FlightFile.csv";
 		
 		// Loaders
 		bookingLoader = new BookingLoader(bookingPath);

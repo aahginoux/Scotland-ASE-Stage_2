@@ -76,7 +76,7 @@ public class SimulationGUI extends JFrame  implements ActionListener{
 		
 		// title for the Queue
 		queuelabel=new JLabel("Passenger's Queue");
-		queuelabel.setFont( new Font(Font.MONOSPACED, Font.BOLD,18));
+		queuelabel.setFont( new Font(Font.SANS_SERIF, Font.BOLD,18));
 		c = new GridBagConstraints();
 		c.gridx=0;
 		c.gridy=0;
@@ -100,7 +100,7 @@ public class SimulationGUI extends JFrame  implements ActionListener{
 		
 		//display the size of queue
 		queueinfo=new JTextField("info",40);
-		queueinfo.setFont( new Font(Font.MONOSPACED, Font.ITALIC,15));
+		queueinfo.setFont( new Font(Font.SANS_SERIF, Font.ITALIC,15));
 		queueinfo.setEditable(false);
 		c = new GridBagConstraints();
 		c.gridx=0;
@@ -115,7 +115,7 @@ public class SimulationGUI extends JFrame  implements ActionListener{
 		
 		//the time label
 		timelabel=new JLabel("Time :");
-		timelabel.setFont( new Font(Font.MONOSPACED, Font.BOLD,18));
+		timelabel.setFont( new Font(Font.SANS_SERIF, Font.BOLD,18));
 		c = new GridBagConstraints();
 		c.gridx=0;
 		c.gridy=0;
@@ -125,7 +125,7 @@ public class SimulationGUI extends JFrame  implements ActionListener{
 		
 		//display the time
 		timedisplay=new JTextArea();
-		timedisplay.setFont( new Font(Font.MONOSPACED, Font.BOLD,18));
+		timedisplay.setFont( new Font(Font.SANS_SERIF, Font.BOLD,18));
 		timedisplay.setEditable(false);
 		c = new GridBagConstraints();
 		c.gridx=1;
@@ -153,7 +153,7 @@ public class SimulationGUI extends JFrame  implements ActionListener{
 		
 		//kiosk1 label
 		desk1=new JLabel("Kiosk 1:");
-		desk1.setFont( new Font(Font.MONOSPACED, Font.BOLD,18));
+		desk1.setFont( new Font(Font.SANS_SERIF, Font.BOLD,18));
 		c = new GridBagConstraints();
 		c.gridx=0;
 		c.gridy=0;
@@ -163,7 +163,7 @@ public class SimulationGUI extends JFrame  implements ActionListener{
 		
 		//display kiosk1 information
 		deskinfo1=new JTextArea("information");
-		deskinfo1.setFont( new Font(Font.MONOSPACED, Font.ITALIC,15));
+		deskinfo1.setFont( new Font(Font.SANS_SERIF, Font.ITALIC,15));
 		deskinfo1.setEditable(false);
 		deskinfo1.setPreferredSize(new Dimension(120,50));
 		c = new GridBagConstraints();
@@ -179,7 +179,7 @@ public class SimulationGUI extends JFrame  implements ActionListener{
 		JPanel Desk2Panel= new JPanel();
 		Desk2Panel.setLayout(new GridBagLayout());
 		desk2=new JLabel("Kiosk 2:");
-		desk2.setFont( new Font(Font.MONOSPACED, Font.BOLD,18));
+		desk2.setFont( new Font(Font.SANS_SERIF, Font.BOLD,18));
 		c = new GridBagConstraints();
 		c.gridx=0;
 		c.gridy=0;
@@ -190,7 +190,7 @@ public class SimulationGUI extends JFrame  implements ActionListener{
 		
 		deskinfo2=new JTextArea("information");
 		deskinfo2.setEditable(false);
-		deskinfo2.setFont( new Font(Font.MONOSPACED, Font.ITALIC,15));
+		deskinfo2.setFont( new Font(Font.SANS_SERIF, Font.ITALIC,15));
 		deskinfo2.setPreferredSize(new Dimension(120,50));
 		c = new GridBagConstraints();
 		c.gridx=0;
@@ -223,7 +223,7 @@ public class SimulationGUI extends JFrame  implements ActionListener{
 		Flight1Panel.setLayout(new GridBagLayout());
 		//flight1 label
 		flight1=new JLabel("Flight1");
-		flight1.setFont( new Font(Font.MONOSPACED, Font.BOLD,18));
+		flight1.setFont( new Font(Font.SANS_SERIF, Font.BOLD,18));
 		c = new GridBagConstraints();
 		c.gridx=0;
 		c.gridy=0;
@@ -232,7 +232,7 @@ public class SimulationGUI extends JFrame  implements ActionListener{
 		Flight1Panel.add(flight1,c);
 		//flight1 departure time
 		flight1time=new JLabel("Flight1time");
-		flight1time.setFont( new Font(Font.MONOSPACED,Font.PLAIN,15));
+		flight1time.setFont( new Font(Font.SANS_SERIF,Font.PLAIN,15));
 		c = new GridBagConstraints();
 		c.gridx=0;
 		c.gridy=1;
@@ -241,7 +241,7 @@ public class SimulationGUI extends JFrame  implements ActionListener{
 		Flight1Panel.add(flight1time,c);
 		//flight1 passengers on board
 		flightinfo1=new JTextField("information",30);
-		flightinfo1.setFont( new Font(Font.MONOSPACED, Font.ITALIC,15));
+		flightinfo1.setFont( new Font(Font.SANS_SERIF, Font.ITALIC,15));
 		flightinfo1.setEditable(false);
 		//flightinfo1.setPreferredSize(new Dimension(120,50));
 		c = new GridBagConstraints();
@@ -271,7 +271,7 @@ public class SimulationGUI extends JFrame  implements ActionListener{
 		JPanel Flight2Panel= new JPanel();
 		Flight2Panel.setLayout(new GridBagLayout());
 		flight2=new JLabel("Flight2");
-		flight2.setFont( new Font(Font.MONOSPACED, Font.BOLD,18));
+		flight2.setFont( new Font(Font.SANS_SERIF, Font.BOLD,18));
 		c = new GridBagConstraints();
 		c.gridx=0;
 		c.gridy=0;
@@ -280,7 +280,7 @@ public class SimulationGUI extends JFrame  implements ActionListener{
 		Flight2Panel.add(flight2,c);
 		
 		flight2time=new JLabel("Flight2time");
-		flight2time.setFont( new Font(Font.MONOSPACED,Font.PLAIN,15));
+		flight2time.setFont( new Font(Font.SANS_SERIF,Font.PLAIN,15));
 		c = new GridBagConstraints();
 		c.gridx=0;
 		c.gridy=1;
@@ -289,7 +289,7 @@ public class SimulationGUI extends JFrame  implements ActionListener{
 		Flight2Panel.add(flight2time,c);
 		
 		flightinfo2=new JTextField("information",30);
-		flightinfo2.setFont( new Font(Font.MONOSPACED, Font.ITALIC,15));
+		flightinfo2.setFont( new Font(Font.SANS_SERIF, Font.ITALIC,15));
 		flightinfo2.setEditable(false);
 		c = new GridBagConstraints();
 		c.gridx=0;
@@ -316,7 +316,7 @@ public class SimulationGUI extends JFrame  implements ActionListener{
 		JPanel Flight3Panel= new JPanel();
 		Flight3Panel.setLayout(new GridBagLayout());
 		flight3=new JLabel("fly");
-		flight3.setFont( new Font(Font.MONOSPACED, Font.BOLD,18));
+		flight3.setFont( new Font(Font.SANS_SERIF, Font.BOLD,18));
 		c = new GridBagConstraints();
 		c.gridx=0;
 		c.gridy=0;
@@ -325,7 +325,7 @@ public class SimulationGUI extends JFrame  implements ActionListener{
 		Flight3Panel.add(flight3,c);
 		
 		flight3time=new JLabel("Flight3time");
-		flight3time.setFont( new Font(Font.MONOSPACED,Font.PLAIN,15));
+		flight3time.setFont( new Font(Font.SANS_SERIF,Font.PLAIN,15));
 		c = new GridBagConstraints();
 		c.gridx=0;
 		c.gridy=1;
@@ -334,7 +334,7 @@ public class SimulationGUI extends JFrame  implements ActionListener{
 		Flight3Panel.add(flight3time,c);
 		
 		flightinfo3=new JTextField("20 passengers have been allready on board",30);
-		flightinfo3.setFont( new Font(Font.MONOSPACED, Font.ITALIC,15));
+		flightinfo3.setFont( new Font(Font.SANS_SERIF, Font.ITALIC,15));
 		flightinfo3.setEditable(false);
 		c = new GridBagConstraints();
 		c.gridx=0;
@@ -405,7 +405,7 @@ public class SimulationGUI extends JFrame  implements ActionListener{
 		// TODO Auto-generated method stub
 		JPanel titlePanel = new JPanel();
 		title = new JLabel("Airport Check In Simulator");
-		title.setFont( new Font(Font.MONOSPACED, Font.BOLD,30));
+		title.setFont( new Font(Font.SANS_SERIF, Font.BOLD,30));
         titlePanel.add(title);   
         
         //set up north panel containing the title and add it to the frame

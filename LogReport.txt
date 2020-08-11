@@ -1,0 +1,139 @@
+
+Log1: Robert Aderholt has entered the queue of Passengers.
+Log2: Lamar Alexander has entered the queue of Passengers.
+Log3: Justin Amash has entered the queue of Passengers.
+Log4: Robert Aderholt has left the queue & is at Check-In Desk Number 2
+Log5: Robert Aderholt has checked in at Desk Number 2
+Log6: Mark Amodei has entered the queue of Passengers.
+Log7: Alma Adams has entered the queue of Passengers.
+Log8: Lamar Alexander has left the queue & is at Check-In Desk Number 1
+Log9: Lamar Alexander has checked in at Desk Number 1
+Log10: Pete Aguilar has entered the queue of Passengers.
+Log11: Rick Allen has entered the queue of Passengers.
+Log12: Justin Amash has left the queue & is at Check-In Desk Number 2
+Log13: Justin Amash has checked in at Desk Number 2
+Log14: Ralph Abraham has entered the queue of Passengers.
+Log15: Jodey Arrington has entered the queue of Passengers.
+Log16: Joe Barton has entered the queue of Passengers.
+Log17: Sanford Bishop has entered the queue of Passengers.
+Log18: Mark Amodei has left the queue & is at Check-In Desk Number 2
+Log19: Mark Amodei has checked in at Desk Number 2
+Log20: Alma Adams has left the queue & is at Check-In Desk Number 1
+Log21: Alma Adams has checked in at Desk Number 1
+Log22: Earl Blumenauer has entered the queue of Passengers.
+Log23: Roy Blunt has entered the queue of Passengers.
+Log24: Kevin Brady has entered the queue of Passengers.
+Log25: Sherrod Brown has entered the queue of Passengers.
+Log26: Pete Aguilar has left the queue & is at Check-In Desk Number 2
+Log27: Pete Aguilar has checked in at Desk Number 2
+Log28: Richard Burr has entered the queue of Passengers.
+Log29: Robert Brady has entered the queue of Passengers.
+Log30: Rick Allen has left the queue & is at Check-In Desk Number 1
+Log31: Rick Allen has checked in at Desk Number 1
+Log32: Tammy Baldwin has entered the queue of Passengers.
+Log33: Ralph Abraham has left the queue & is at Check-In Desk Number 2
+Log34: Ralph Abraham has checked in at Desk Number 2
+Log35: John Boozman has entered the queue of Passengers.
+Log36: Marsha Blackburn has entered the queue of Passengers.
+Log37: Madeleine Bordallo has entered the queue of Passengers.
+Log38: Michael Burgess has entered the queue of Passengers.
+Log39: Jodey Arrington has left the queue & is at Check-In Desk Number 2
+Log40: Jodey Arrington has checked in at Desk Number 2
+Log41: Rob Bishop has entered the queue of Passengers.
+Log42: Joe Barton has left the queue & is at Check-In Desk Number 1
+Log43: Joe Barton has checked in at Desk Number 1
+Log44: George Butterfield has entered the queue of Passengers.
+Log45: Gus Bilirakis has entered the queue of Passengers.
+Log46: Vern Buchanan has entered the queue of Passengers.
+Log47: Sanford Bishop has left the queue & is at Check-In Desk Number 2
+Log48: Sanford Bishop has checked in at Desk Number 2
+Log49: John Barrasso has entered the queue of Passengers.
+Log50: Michael Bennet has entered the queue of Passengers.
+Log51: Earl Blumenauer has left the queue & is at Check-In Desk Number 1
+Log52: Earl Blumenauer has checked in at Desk Number 1
+Log53: Lou Barletta has entered the queue of Passengers.
+Log54: Karen Bass has entered the queue of Passengers.
+Log55: Roy Blunt has left the queue & is at Check-In Desk Number 2
+Log56: Roy Blunt has checked in at Desk Number 2
+Log57: Diane Black has entered the queue of Passengers.
+Log58: Mo Brooks has entered the queue of Passengers.
+Log59: Larry Bucshon has entered the queue of Passengers.
+Log60: Kevin Brady has left the queue & is at Check-In Desk Number 3
+Log61: Kevin Brady has checked in at Desk Number 3
+Log62: Richard Blumenthal has entered the queue of Passengers.
+Log63: Sherrod Brown has left the queue & is at Check-In Desk Number 2
+Log64: Sherrod Brown has checked in at Desk Number 2
+Log65: Richard Burr has left the queue & is at Check-In Desk Number 1
+Log66: Richard Burr has checked in at Desk Number 1
+Log67: Suzanne Bonamici has entered the queue of Passengers.
+Log68: Joyce Beatty has entered the queue of Passengers.
+Log69: Garland Barr has entered the queue of Passengers.
+Log70: Robert Brady has left the queue & is at Check-In Desk Number 3
+Log71: Robert Brady has checked in at Desk Number 3
+Log72: Jim Bridenstine has entered the queue of Passengers.
+Log73: Tammy Baldwin has left the queue & is at Check-In Desk Number 2
+Log74: Tammy Baldwin has checked in at Desk Number 2
+Log75: Susan Brooks has entered the queue of Passengers.
+Log76: Julia Brownley has entered the queue of Passengers.
+Log77: John Boozman has left the queue & is at Check-In Desk Number 1
+Log78: John Boozman has checked in at Desk Number 1
+Log79: Marsha Blackburn has left the queue & is at Check-In Desk Number 3
+Log80: Marsha Blackburn has checked in at Desk Number 3
+Log81: Cheri Bustos has entered the queue of Passengers.
+Log82: Madeleine Bordallo has left the queue & is at Check-In Desk Number 2
+Log83: Madeleine Bordallo has checked in at Desk Number 2
+Log84: Ami Bera has entered the queue of Passengers.
+Log85: Cory Booker has entered the queue of Passengers.
+Log86: Bradley Byrne has entered the queue of Passengers.
+Log87: Michael Burgess has left the queue & is at Check-In Desk Number 3
+Log88: Michael Burgess has checked in at Desk Number 3
+Log89: David Brat has entered the queue of Passengers.
+Log90: Rob Bishop has left the queue & is at Check-In Desk Number 2
+Log91: Rob Bishop has checked in at Desk Number 2
+Log92: George Butterfield has left the queue & is at Check-In Desk Number 1
+Log93: George Butterfield has checked in at Desk Number 1
+Log94: Brian Babin has entered the queue of Passengers.
+Log95: Donald Beyer has entered the queue of Passengers.
+Log96: Mike Bishop has entered the queue of Passengers.
+Log97: Gus Bilirakis has left the queue & is at Check-In Desk Number 3
+Log98: Gus Bilirakis has checked in at Desk Number 3
+Log99: Rod Blum has entered the queue of Passengers.
+Log100: Vern Buchanan has left the queue & is at Check-In Desk Number 2
+Log101: Vern Buchanan has checked in at Desk Number 2
+Log102: Mike Bost has entered the queue of Passengers.
+Log103: John Barrasso has left the queue & is at Check-In Desk Number 1
+Log104: John Barrasso has checked in at Desk Number 1
+Log105: Michael Bennet has left the queue & is at Check-In Desk Number 3
+Log106: Michael Bennet has checked in at Desk Number 3
+Log107: Lou Barletta has left the queue & is at Check-In Desk Number 2
+Log108: Lou Barletta has checked in at Desk Number 2
+Log109: Karen Bass has left the queue & is at Check-In Desk Number 3
+Log110: Karen Bass has checked in at Desk Number 3
+Log111: Diane Black has left the queue & is at Check-In Desk Number 2
+Log112: Diane Black has checked in at Desk Number 2
+Log113: Mo Brooks has left the queue & is at Check-In Desk Number 1
+Log114: Mo Brooks has checked in at Desk Number 1
+Log115: Larry Bucshon has left the queue & is at Check-In Desk Number 3
+Log116: Larry Bucshon has checked in at Desk Number 3
+Log117: Richard Blumenthal has left the queue & is at Check-In Desk Number 1
+Log118: Richard Blumenthal has checked in at Desk Number 1
+Log119: Suzanne Bonamici has left the queue & is at Check-In Desk Number 3
+Log120: Suzanne Bonamici has checked in at Desk Number 3
+Log121: Joyce Beatty has left the queue & is at Check-In Desk Number 3
+Log122: Joyce Beatty has checked in at Desk Number 3
+Log123: Garland Barr has left the queue & is at Check-In Desk Number 1
+Log124: Garland Barr has checked in at Desk Number 1
+Log125: Jim Bridenstine has left the queue & is at Check-In Desk Number 3
+Log126: Jim Bridenstine has checked in at Desk Number 3
+Log127: Susan Brooks has left the queue & is at Check-In Desk Number 1
+Log128: Susan Brooks has checked in at Desk Number 1
+Log129: Julia Brownley has left the queue & is at Check-In Desk Number 3
+Log130: Julia Brownley has checked in at Desk Number 3
+Log131: Cheri Bustos has left the queue & is at Check-In Desk Number 3
+Log132: Cheri Bustos has checked in at Desk Number 3
+Log133: Ami Bera has left the queue & is at Check-In Desk Number 1
+Log134: Ami Bera has checked in at Desk Number 1
+Log135: Cory Booker has left the queue & is at Check-In Desk Number 3
+Log136: Cory Booker has checked in at Desk Number 3
+Log137: Bradley Byrne has left the queue & is at Check-In Desk Number 3
+Log138: Bradley Byrne has checked in at Desk Number 3

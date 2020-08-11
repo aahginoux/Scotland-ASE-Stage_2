@@ -1,0 +1,11 @@
+FlightCode,Destination,Carrier,MaxNumOfPax,MaxBagWeightKG,MaxBagVolumeCM3
+AB315,Hamburg ,Air Berlin,33,825,2025857
+CA787,Macau ,Air China,41,1212,2482859
+IX539,Dubai ,Air India Express,48,1600,2939861
+AA956,London Heathrow ,American Airlines,55,1987,3396863
+WX726,Dublin ,CityJet,63,2142,4016754
+EK806,Sialkot ,Emirates,71,2911,4163511
+HA254,Tokyo Haneda ,Hawaiian Airlines,74,3478,4924848
+IB391,Miami ,Iberia Airlines,88,3608,4451568
+KE978,Incheon ,Korean Air,91,3367,6532526
+LH866,Manchester ,Lufthansa,101,4554,5889015
